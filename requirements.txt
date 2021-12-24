@@ -1,0 +1,8 @@
+Webpack
+    Babel (компилить в старый js)
+    SCSS (лучше чем писаль на CSS)
+    ESLint (проверка чистоты кода)
+    -DevMod
+    -ProdMod
+
+GIT
